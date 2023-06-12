@@ -14,7 +14,7 @@ const HomeComponent = () => {
         </div>
       </div>
 
-      <div className="flex md:flex-row md:space-y-0 space-y-4 flex-col justify-center items-center">
+      <div className="flex md:flex-row md:space-y-0  flex-col justify-center items-center">
         <article className=" md:w-2/3 md:leading-7 text-white text-left  text-sm font-light">
           <p>
             The Cognizer is a publishing platform initiated by CogIST, a
