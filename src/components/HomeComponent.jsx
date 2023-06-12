@@ -5,10 +5,10 @@ const HomeComponent = () => {
   return (
     <div className="flex md:flex-col space-y-4 h-screen font-first  items-center justify-center px-4  md:px-28 flex-col bg-[radial-gradient(ellipse_at_bottom,_var(--tw-gradient-stops))] from-gray-800 to-custom ">
       <div className="flex flex-col md:flex-row items-center justify-center">
-        <div className="w-1/3 md:w-2/12 ">
+        <div className="w-1/3 md:w-3/12 ">
           <img src={Logo} alt="Cogist.com Logo" />
         </div>
-        <div className="w-1/2 md:w-1/3">
+        <div className="w-1/2 md:w-3/5">
           <img src={Banner} alt="Cogist.com Logo" />
         </div>
       </div>
